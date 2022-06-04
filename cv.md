@@ -1,26 +1,26 @@
-#**Ardabayev Yerkebulan**
+# **Ardabayev Yerkebulan**
 
 
-##**Contacts:**
+## **Contacts:**
 
 
-##**Discord:** Yerkebulan Ardabayev#6410
+## **Discord:** Yerkebulan Ardabayev#6410
 
 
-##**E-mail:** yerkebulan.ardabayev@gmail.com
+## **E-mail:** yerkebulan.ardabayev@gmail.com
 
 
-##**Tel:** +77015355758
+## **Tel:** +77015355758
 
 
-##**About myself:
+## **About myself:**
 
 
 I want to learn Front-End Development in RSSchool!
 
 
 
-##**Code example:
+## **Code example:**
 
 
 ```
@@ -36,14 +36,14 @@ let phrase = words.reduce(function (total, current, index) {
 ```
 
 
-##**Work experience:
+## **Work experience:**
 
 
 Nothing yet…
 
 
 
-##**Education and courses:**
+## **Education and courses:**
 
 
 CS50 video course
@@ -61,7 +61,7 @@ Courses from the Computer Academy "Step" - frontend developer in the JavaScript 
 Courses from JAS Academy - React JS frontend developer
 
 
-##**Language:**
+## **Language:**
 
 
 English level - A-2
